@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta chartset=”utf-8”>
+<title>学生请假管理系统</title>
+</head>
+<body>
+<h1>欢迎来到学生请假管理系统</h1>
+<div>
+<form action=>
+账号：<input type=”text” name=”userid”><br>
+密码：<input type=”text” name=”passw”><br>
+<label>
+<input type=”radio” name=”status” value=”student”>学生
+<input type=”radio” name=”status” value=”teacher”>教师
+</label>
+<input type=”submit” value=”提交”>
+</form>
+</div>
+</body>
+</html>
